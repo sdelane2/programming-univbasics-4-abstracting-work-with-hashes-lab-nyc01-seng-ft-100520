@@ -1,5 +1,5 @@
 def my_hash_creator(key, value)
-  big_hash
+  big_hash[key:] = 
 end
 
 def read_from_hash(hash, key)
